@@ -6,7 +6,7 @@ public class GithubTest {
         System.out.println("Hello World!");
     }
     private void trivialMethod(){
-
+        //12345
         for(int i=0;i<100;i++);
         //45678
     }
