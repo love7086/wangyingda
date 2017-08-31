@@ -7,6 +7,7 @@ public class GithubTest {
     }
     private void trivialMethod(){
         //this is system out print
+        //second comment
         System.out.println("Nothing");
     }
 }
