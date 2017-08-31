@@ -10,4 +10,7 @@ public class GithubTest {
         for(int i=0;i<100;i++);
         //45678
     }
+    private void method2(){
+
+    }
 }
