@@ -6,8 +6,7 @@ public class GithubTest {
         System.out.println("Hello World!");
     }
     private void trivialMethod(){
-        //this is system out print
-        //third comment
-        System.out.println("Nothing");
+        for(int i=0;i<100;i++);
+
     }
 }
