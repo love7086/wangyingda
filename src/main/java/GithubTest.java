@@ -6,6 +6,7 @@ public class GithubTest {
         System.out.println("Hello World!");
     }
     private void trivialMethod(){
+        //this is system out print
         System.out.println("Nothing");
     }
 }
